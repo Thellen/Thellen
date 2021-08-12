@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Thellen
-- 👀 I’m interested in Data Analytics and BI
-- 🌱 I’m currently learning Python, Big Data, Google Cloud, Dockers and more
+Olá! Eu sou a Thellen 👩🏿
+- 👨‍💻Atualmente trabalho como Analista BI utilizando Power BI e Google Data Studio
+- 🌱Estou estudando Python e suas bibliotecas
 
 <!---
 Thellen/Thellen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
