@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Thellen 👩🏿
-- 👨‍💻Atualmente trabalho como Analista BI utilizando Power BI e Google Data Studio
+- 👨‍💻Atualmente trabalhando como Data Analyst PL utilizando Power BI, Looker e GCP
 - 🌱Estou estudando Python e suas bibliotecas
 
  <div>
